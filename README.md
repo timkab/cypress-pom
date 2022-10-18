@@ -1,4 +1,4 @@
-## UI tests using Cypress v10 with page object model
+## UI tests using Cypress v10 with Page object model
 
 ## Test coverage: 
 - Sign up and Login flows (including negative scenarios)
