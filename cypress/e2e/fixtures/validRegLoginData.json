@@ -1,0 +1,26 @@
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "password": "Test@123",
+
+  "companyName": "testCompany",
+  "phoneNumber": "8182599911",
+
+  "companyType0": "SPECIALTY_CONTRACTOR",
+  "companyType1": "GENERAL_CONTRACTOR",
+  "companyType2": "ARCHITECT_SLASH_DESIGNER",
+  "companyType3": "OWNER",
+  "companyType4": "OTHER",
+
+  "companySize0": "size_1_10",
+  "companySize1": "size_10_50",
+  "companySize2": "size_50_250",
+  "companySize3": "size_250_1000",
+
+  "loginEmail": "fieldwire1666092214554@test.com",
+  "loginPassword": "Test@123",
+
+  "inviteEmail": "vector@test.com",
+
+  "taskTitle": "Test Fieldwire"
+}

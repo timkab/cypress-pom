@@ -1,0 +1,17 @@
+{
+"emailNoServerName": "test@.com",
+"emailNoUserName": "@mail.com",
+"emailNoSymbol": "testmail.com",
+"emailNoDomainName": "test@mail",
+
+"unregisterUserEmail": "notregistered@mail.com",
+
+"usPhoneTooLong": "81825999178",
+"usPhoneTooShort": "818259991",
+
+"paswordTooShort": "123t",
+
+"invalidLoginPassword": "Test321@"
+
+
+}

@@ -1,0 +1,24 @@
+{
+    "name": "fieldwire-assignment",
+    "version": "1.0.0",
+    "description": "e2e UI tests using cypress v10",
+    "author": "Timur Kabilov",
+    "scripts": {
+        "cy-open": "cypress open",
+        "run-all-chrome": "cypress run --headed --browser chrome",
+        "run-all-edge": "cypress run --headed --browser edge",
+        "run-all-firefox": "cypress run --headed --browser firefox",
+
+        "run-login-chrome": "cypress run --headed --browser chrome --spec \"cypress/e2e/tests/logInTest.cy.js\"",
+        "run-signup-chrome": "cypress run --headed --browser chrome --spec \"cypress/e2e/tests/signUpTest.cy.js\"",
+        "run-projects-chrome": "cypress run --headed --browser chrome --spec \"cypress/e2e/tests/projectsTest.cy.js\""
+    },
+    "devDependencies": {
+        "cypress": "^10.10.0",
+        "eslint": "^8.25.0",
+        "eslint-plugin-cypress": "^2.12.1"
+    },
+    "dependencies": {
+        "@cypress/xpath": "^2.0.2"
+    }
+}
