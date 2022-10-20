@@ -4,7 +4,7 @@
 - Sign up and Login flows (including negative scenarios)
 - Project and task creation
 
-## Cross browser testing commands
+## Testing commands
 - `$ npm run run-all-chrome` - runs all tests in headed Chrome browser
 - `$ npm run run-all-edge` - runs all tests in headed Edge browser
 - `$ npm run run-all-firefox` - runs all tests in headed Firefox browser
